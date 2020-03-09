@@ -3,12 +3,12 @@ This plugin allows players to teleport vertically using 2 block of wool (can put
 # Commands
 
 ### General
-| Command | Permission | Description |
-| ------- | ---------- | ----------- |
+
 No Commands, just jump or crouch on a Wool block (gonna make a better recipe and special wool later on)
 
 
 # Permissions
-| Permissions | Description | Commands | Recommended groups |
-| ----------- | ----------- | -------- | ------------------ |
+No permission needed.
 
+# Warning
+You will need the hooks I've addeded to cuberite server for this plugin to work.
