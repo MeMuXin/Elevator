@@ -9,6 +9,3 @@ No Commands, just jump or crouch on a Wool block (gonna make a better recipe and
 
 # Permissions
 No permission needed.
-
-# Warning
-You will need the hooks I've addeded to cuberite server for this plugin to work.
